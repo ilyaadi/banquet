@@ -1,0 +1,40 @@
+|-- .gitignore
+|-- eslint.config.mjs
+|-- jsconfig.json
+|-- next.config.mjs
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.mjs
+|-- public
+    |-- decor.jpg
+    |-- file.svg
+    |-- front1.jpg
+    |-- front2.jpg
+    |-- globe.svg
+    |-- guest_rooms.jpg
+    |-- lighting.jpg
+    |-- logo.png
+    |-- main_banquet_hall.jpg
+    |-- next.svg
+    |-- open_lawn.jpg
+    |-- parking_space.jpg
+    |-- vercel.svg
+    |-- window.svg
+|-- README.md
+|-- src
+    |-- app
+        |-- favicon.ico
+        |-- globals.css
+        |-- layout.js
+        |-- page.js
+    |-- components
+        |-- AboutUs.js
+        |-- ContactSection.js
+        |-- Footer.js
+        |-- Gallery.js
+        |-- HeroSection.js
+        |-- Navbar.js
+        |-- PackagesPricing.js
+        |-- ServicesOffered.js
+        |-- Testimonials.js
+        |-- VenueHighlights.js
