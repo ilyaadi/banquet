@@ -8,10 +8,7 @@ export default function AboutUs() {
           <h2 className="text-2xl sm:text-3xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#300020] to-[#E4007C] drop-shadow-lg mb-4 font-serif">About Us</h2>
           <span className="block w-16 sm:w-24 h-1 rounded-full bg-gradient-to-r from-[#E5B200] via-[#300020] to-[#E4007C] mb-4 sm:mb-6"></span>
           <p className="text-base sm:text-lg md:text-xl mb-4 font-serif" data-aos="fade-up" data-aos-delay="200">
-            Aashirvad Banquet Hall is a family-owned venue in Nurpur, Himachal Pradesh, where traditional Indian hospitality meets modern luxury. Our mission is to create unforgettable celebrations, blending timeless elegance with contemporary amenities. With decades of experience, we pride ourselves on personalized service, exquisite décor, and attention to every detail.
-          </p>
-          <p className="text-sm sm:text-base md:text-lg font-serif" data-aos="fade-up" data-aos-delay="300">
-            Whether it’s a grand wedding, intimate gathering, or corporate event, our team ensures every occasion is memorable. Discover the perfect blend of culture, comfort, and sophistication at Aashirvad Banquet Hall.
+            Aashirvad Banquet Hall is a family-owned venue in Nurpur, Himachal Pradesh, where traditional Indian hospitality meets modern luxury. Our mission is to create unforgettable celebrations, blending timeless elegance with contemporary amenities. With decades of experience, we pride ourselves on personalized service, exquisite décor, and attention to every detail.             Whether it’s a grand wedding, intimate gathering, or corporate event, our team ensures every occasion is memorable. Discover the perfect blend of culture, comfort, and sophistication at Aashirvad Banquet Hall.
           </p>
         </div>
         <div className="flex-1 flex justify-center w-full" data-aos="zoom-in" data-aos-delay="400">
